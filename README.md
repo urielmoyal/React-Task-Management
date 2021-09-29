@@ -15,19 +15,3 @@ manager can also Update and delete tasks
 
 **Employee** - the employee user and see **his tasks only** and mark them as 
 "in process" ,"done" ,"return to manger check"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

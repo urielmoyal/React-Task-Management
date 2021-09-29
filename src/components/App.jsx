@@ -3,7 +3,7 @@ import { useRealmApp, RealmAppProvider } from "./UserContext";
 import NotesScreen from "./NotesScreen";
 import LogIn from "./LogIn";
 
-export const APP_ID = "kepper-app-dnryf";
+export const APP_ID = "<YOURS APP ID>";
 
 const RequireLoggedInUser = ({ children }) => {
   // Only render children if there is a logged in user.

@@ -53,7 +53,7 @@ function UpdatePopUP(props) {
       onHide={props.handleClose}
     >
       <Modal.Header closeButton>
-        <Modal.Title id="contained-modal-title-vcenter">Modal heading</Modal.Title>
+        <Modal.Title id="contained-modal-title-vcenter">Edit Task</Modal.Title>
       </Modal.Header>
       <Modal.Body>
         <form>

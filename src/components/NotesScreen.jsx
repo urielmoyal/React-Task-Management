@@ -93,6 +93,11 @@ function NotesScreen() {
     };
     getNotesFromDb();
     dbListener();
+    return () => {
+      setIsLoggingIn();
+      setShowNotesOf();
+      setNoteArray();
+    };
   }
 
   useEffect(setUp, []);
